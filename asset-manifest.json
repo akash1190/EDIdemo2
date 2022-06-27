@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EDIdemo2/static/css/main.e984fbce.css",
+    "main.js": "/EDIdemo2/static/js/main.25b41b4f.js",
+    "static/js/787.9dc102b6.chunk.js": "/EDIdemo2/static/js/787.9dc102b6.chunk.js",
+    "index.html": "/EDIdemo2/index.html",
+    "static/media/logo.svg": "/EDIdemo2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.e984fbce.css.map": "/EDIdemo2/static/css/main.e984fbce.css.map",
+    "main.25b41b4f.js.map": "/EDIdemo2/static/js/main.25b41b4f.js.map",
+    "787.9dc102b6.chunk.js.map": "/EDIdemo2/static/js/787.9dc102b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e984fbce.css",
+    "static/js/main.25b41b4f.js"
+  ]
+}
